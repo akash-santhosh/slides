@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.27.18",
+    "@slidev/theme-bricks": "^0.0.2",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "slidev-theme-academic": "^1.1.0",
+    "slidev-theme-eloc": "^1.0.1",
+    "slidev-theme-flayyer": "^1.0.2",
+    "slidev-theme-geist": "^0.8.1",
+    "slidev-theme-light-icons": "^1.0.2",
+    "slidev-theme-penguin": "^1.6.1",
+    "slidev-theme-purplin": "^1.1.0",
+    "slidev-theme-takahashi": "^1.0.0",
+    "slidev-theme-unicorn": "^1.0.21",
+    "slidev-theme-vuetiful": "^0.3.1",
+    "slidev-theme-zhozhoba": "^1.0.0"
+  },
+  "name": "hack"
+}
